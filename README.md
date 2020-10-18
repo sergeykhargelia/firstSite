@@ -1,1 +1,1 @@
-# Hello, this is myt first site using GitHub Pages
+# Hello, this is my first site using GitHub Pages
